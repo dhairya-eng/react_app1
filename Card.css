@@ -1,0 +1,28 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    
+}
+.card{
+    border: 1px solid;
+    border-radius: 1pc;
+    background-color: black;
+    width: 100%;
+}
+.card:hover{
+    cursor: pointer;
+}
+
+.info>p{
+    padding: 10px;
+}
+.option{
+    display: flex;
+    
+}
+
+.map{
+    width: 300px;
+    height: 200px;
+    border-radius: 1pc;
+}
